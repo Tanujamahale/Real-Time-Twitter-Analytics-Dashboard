@@ -25,6 +25,7 @@ The time-based restriction between 3 PM and 5 PM IST ensures analysis aligns wit
 Tweets with higher impressions often result from targeted campaigns or engaging content types.
 3.	Timing Optimization:
 Utilize the 3 PM–5 PM IST window for posting tweets to maximize visibility and engagement based on the filtered trends.
+![task 1](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.png)
 
 - <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.png"> Task 1<a>
 
