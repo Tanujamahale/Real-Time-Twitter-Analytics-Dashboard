@@ -17,7 +17,6 @@ Tweets with higher impressions typically have a stronger correlation with higher
 Filtering low-impression tweets (below 100) helps focus on impactful data.
 2.	Time-Specific Trends:
 The time-based restriction between 3 PM and 5 PM IST ensures analysis aligns with user activity peaks, optimizing engagement opportunities.
-<a href "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.jpg"> Task 1 </a>
 
 ##Actionable Insights:
 
@@ -27,6 +26,7 @@ Tweets with higher impressions often result from targeted campaigns or engaging 
 3.	Timing Optimization:
 Utilize the 3 PM–5 PM IST window for posting tweets to maximize visibility and engagement based on the filtered trends.
 
+https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.jpg
 
 # Task 2
 
