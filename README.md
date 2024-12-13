@@ -26,7 +26,7 @@ Tweets with higher impressions often result from targeted campaigns or engaging 
 3.	Timing Optimization:
 Utilize the 3 PM–5 PM IST window for posting tweets to maximize visibility and engagement based on the filtered trends.
 
-https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.jpg
+<a href "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.png"> Task 1<a>
 
 # Task 2
 
@@ -55,4 +55,29 @@ Explore hashtag usage trends to identify the most engaging ones.
 Keep tweet messages concise (under 40 words) for better engagement.
 Schedule tweets during the 3 PM–6 PM window, which seems to be an effective period for driving interactions.
 
+# Task 3
 
+##Objective of the Task
+
+
+The aim is to analyze trends in tweet engagement by visualizing the average engagement rate over time, while segmenting the data into tweets with media content and those without. The specific requirements ensure a targeted analysis that focuses on engagement patterns based on various criteria.
+
+
+Key Findings:
+
+1.	Engagement Patterns:
+Monthly trends in average engagement rates can reveal peak periods of user interaction.
+Tweets with media content generally outperform those without, indicating the importance of including visual elements.
+2.	Impact of Filtered Criteria:
+Limiting analysis to specific times (3 PM–6 PM) and engagement metrics (even-numbered values) provides a focused view of high-impact tweets.
+The odd-date filter may highlight unique patterns not observed in other subsets.
+3.	Influence of Media Content:
+The distinction between tweets with and without media highlights the added value of visual content for driving engagement.
+
+Actionable Insights:
+
+1.	Content Strategy:
+Prioritize tweets with media, especially during months with historically higher engagement rates.
+Experiment with visual content formats (images, videos) to maximize reach and interactions.
+2.	Time Optimization:
+Leverage the identified engagement windows (3 PM–6 PM) for scheduling tweets to maximize visibility and interaction.
