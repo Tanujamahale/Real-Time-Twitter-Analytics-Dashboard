@@ -26,6 +26,7 @@ Tweets with higher impressions often result from targeted campaigns or engaging 
 3.	Timing Optimization:
 Utilize the 3 PM–5 PM IST window for posting tweets to maximize visibility and engagement based on the filtered trends.
 
+
 # Task 2
 
 ##Objective of the Task
