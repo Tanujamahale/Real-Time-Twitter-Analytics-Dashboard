@@ -3,6 +3,8 @@ This project is a real-time Twitter analytics dashboard built using Power BI, de
 
 <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Real-%20Time%20Twitter%20Analytics%20Dashboard.pbix"> Real-Time-Twitter-Analytics-Dashboard</a>
 - <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Real-%20Time%20Twitter%20Analytics%20dashboard.png"> View Dashboard</a>
+![Dashboard](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Real-%20Time%20Twitter%20Analytics%20dashboard.png)
+
 # Task 1
 ##Objective of the Task
 
@@ -55,6 +57,7 @@ Explore hashtag usage trends to identify the most engaging ones.
 2.	Content Strategy:
 Keep tweet messages concise (under 40 words) for better engagement.
 Schedule tweets during the 3 PM–6 PM window, which seems to be an effective period for driving interactions.
+![task 2](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%202.png)
 <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%202.png"> Task 2 </a>
 
 # Task 3
@@ -83,4 +86,5 @@ Prioritize tweets with media, especially during months with historically higher 
 Experiment with visual content formats (images, videos) to maximize reach and interactions.
 2.	Time Optimization:
 Leverage the identified engagement windows (3 PM–6 PM) for scheduling tweets to maximize visibility and interaction.
+![task 3](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%203.png)
 <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%203.png"> Task 3 </a>
