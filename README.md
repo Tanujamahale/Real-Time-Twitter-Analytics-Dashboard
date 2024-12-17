@@ -29,7 +29,6 @@ Tweets with higher impressions often result from targeted campaigns or engaging 
 Utilize the 3 PM–5 PM IST window for posting tweets to maximize visibility and engagement based on the filtered trends.
 ![task 1](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.png)
 
-- <a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%201.png"> Task 1<a>
 
 # Task 2
 
@@ -58,7 +57,7 @@ Explore hashtag usage trends to identify the most engaging ones.
 Keep tweet messages concise (under 40 words) for better engagement.
 Schedule tweets during the 3 PM–6 PM window, which seems to be an effective period for driving interactions.
 ![task 2](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%202.png)
-<a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%202.png"> Task 2 </a>
+
 
 # Task 3
 
@@ -87,4 +86,4 @@ Experiment with visual content formats (images, videos) to maximize reach and in
 2.	Time Optimization:
 Leverage the identified engagement windows (3 PM–6 PM) for scheduling tweets to maximize visibility and interaction.
 ![task 3](https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%203.png)
-<a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Task%203.png"> Task 3 </a>
+<a href= "https://github.com/Tanujamahale/Real-Time-Twitter-Analytics-Dashboard/blob/main/Twitter%20Analytics%20Tasks.pbix"> All Tasks </a>
